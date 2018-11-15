@@ -1,0 +1,30 @@
+
+
+.kwadrat1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.kwadrat2 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    opacity: 0.75;
+    margin-top: 10px;
+    }
+.kwadrat3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    opacity: 0.5;
+    margin-top: 10px;
+}
+.kwadrat4 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    opacity: 0.25;
+    margin-top: 10px;
+}
